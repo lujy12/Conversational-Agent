@@ -19,10 +19,10 @@ pip install openai requests python-dotenv
 
 Create a `.env` file:
 ```ini
-API_KEY=your_openai_api_key
+API_KEY=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
 BASE_URL=https://api.openai.com/v1
 LLM_MODEL=gpt-4
-WEATHER_API_KEY=your_weather_api_key
+WEATHER_API_KEY=55c14b3518524caa9cc195430251803
 ```
 
 ### 3. Run the Chatbot
