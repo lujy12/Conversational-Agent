@@ -14,7 +14,6 @@ pip install openai requests python-dotenv
 ```
 
 ### 2. Set Up API Keys
-Sign up and get API keys from:
 - [OpenAI](https://platform.openai.com/)
 - [WeatherAPI](https://www.weatherapi.com/)
 
